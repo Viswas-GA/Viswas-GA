@@ -88,26 +88,16 @@ Let’s build, break, and build again. Together.
 
 ###
 
-<h2>📊 GitHub Stats:</h2>
+<h2> 📚 GitHub Stats:</h2>
 
-
-
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&border_radius=20" height="180" alt="GitHub Stats" />
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&border_radius=20" height="180" alt="Top Languages" />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&border_radius=20" height="180" alt="GitHub Streak" />
-
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswas-GA&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_radius=10"
+    height="220"
+    alt="Most Used Languages"
+    style="border-radius: 10px; border: 1px solid #333; padding: 5px;"
+  />
 </div>
 
-<!-- GitHub Profile Trophy for uniqueness and eye-catch -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
-</div>
 
 <br clear="both">
